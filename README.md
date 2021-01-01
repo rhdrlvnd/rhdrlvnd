@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Dawoon's github stats](https://github-readme-stats.vercel.app/api?username=rhdrlvnd & theme =dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Dawoon's github stats](https://github-readme-stats.vercel.app/api?username=rhdrlvnd&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhdrlvnd&layout=default,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
