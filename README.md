@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Dawoon's github stats](https://github-readme-stats.vercel.app/api?username=rhdrlvnd)](https://github.com/anuraghazra/github-readme-stats)
+[![Dawoon's github stats](https://github-readme-stats.vercel.app/api?username=rhdrlvnd&layout=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhdrlvnd&layout=dracula,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhdrlvnd&layout=default,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhdrlvnd&count_bg=%237387FF&title_bg=%23766D6D&icon=nintendoswitch.svg&icon_color=%23FFA5A5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
