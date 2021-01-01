@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Dawoon's github stats](https://github-readme-stats.vercel.app/api?username=rhdrlvnd&show_icons=true&theme=radical)
+![Dawoon's github stats](https://github-readme-stats.vercel.app/api?username=rhdrlvnd&show_icons=true&theme=Gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhdrlvnd&&theme=Gradient,c%2B%2B)
 
