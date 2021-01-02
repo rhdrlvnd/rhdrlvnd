@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Dawoon! 👋
 
 ![Dawoon's github stats](https://github-readme-stats.vercel.app/api?username=rhdrlvnd&show_icons=true)
 
